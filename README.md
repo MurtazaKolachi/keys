@@ -3,7 +3,7 @@
 # Path
 
 ``` bash
-vendor/voltage-priv/keys
+vendor/evolution-priv/keys
 ```
 
 # Usage
