@@ -3,7 +3,7 @@
 # Path
 
 ``` bash
-vendor/evolution-priv/keys
+git clone https://github.com/MurtazaKolachi/keys -b evo vendor/evolution-priv/keys
 ```
 
 # Usage
