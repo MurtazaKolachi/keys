@@ -1,6 +1,6 @@
 # evolution-priv_keys-template
 
-# Path
+# Clone
 
 ``` bash
 git clone https://github.com/MurtazaKolachi/keys -b evo vendor/evolution-priv/keys
